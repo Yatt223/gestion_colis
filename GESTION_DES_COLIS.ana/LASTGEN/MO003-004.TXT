@@ -1,0 +1,5 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+COLIS		TAR	148	nouvelle taille enregistrement : 148
+COLIS	QUANTITE	RUB+		QUANTITE est une nouvelle rubrique
+ENVOIS		TAR	144	nouvelle taille enregistrement : 144
+ENVOIS	QUANTITE	RUB+		QUANTITE est une nouvelle rubrique

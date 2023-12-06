@@ -1,0 +1,7 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+EXPEDITEUR		TAR	408	nouvelle taille enregistrement : 408
+EXPEDITEUR	NUM_PIECES	RUB+		NUM_PIECES est une nouvelle rubrique
+EXPEDITEUR	IMG_PIECES	RUB+		IMG_PIECES est une nouvelle rubrique
+DESTINATEUR		TAR	408	nouvelle taille enregistrement : 408
+DESTINATEUR	NUM_PIECES	RUB+		NUM_PIECES est une nouvelle rubrique
+DESTINATEUR	IMG_PIECES	RUB+		IMG_PIECES est une nouvelle rubrique

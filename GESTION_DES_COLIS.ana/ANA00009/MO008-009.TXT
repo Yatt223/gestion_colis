@@ -1,0 +1,3 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+COLIS		TAR	108	nouvelle taille enregistrement : 108
+COLIS	VALEUR	CNW	Monétaire$Chaîne	la rubrique VALEUR a pour nouveau type Monétaire

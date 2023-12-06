@@ -1,0 +1,2 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+FACTURES	NUM_FACT	CLEN*		la rubrique NUM_FACT est maintenant une clé

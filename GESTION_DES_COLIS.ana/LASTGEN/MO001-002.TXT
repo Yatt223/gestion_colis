@@ -1,0 +1,10 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+EXPEDITEUR		TAR	349	nouvelle taille enregistrement : 349
+EXPEDITEUR	PHOTO	RUB+		PHOTO est une nouvelle rubrique
+DESTINATEUR		TAR	349	nouvelle taille enregistrement : 349
+DESTINATEUR	PHOTO	RUB+		PHOTO est une nouvelle rubrique
+COLIS		TAR	143	nouvelle taille enregistrement : 143
+COLIS	PHOTO	RUB+		PHOTO est une nouvelle rubrique
+ENVOIS		TAR	140	nouvelle taille enregistrement : 140
+ENVOIS	MONTANT_A_PAYER	NNR	MONTANT	ATTENTION : la rubrique MONTANT a pour nouveau nom MONTANT_A_PAYER
+ENVOIS	MONTANT_RESTANT	RUB+		MONTANT_RESTANT est une nouvelle rubrique

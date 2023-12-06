@@ -1,0 +1,10 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+COLIS		TAR	200	nouvelle taille enregistrement : 200
+COLIS	VALEUR	RUB+		VALEUR est une nouvelle rubrique
+COLIS	DETAIL	RUB+		DETAIL est une nouvelle rubrique
+COLIS	MESURE	RUB+		MESURE est une nouvelle rubrique
+COLIS	TAILLESS	RUB-		la rubrique TAILLESS est supprimée
+FACTURES		TAR	137	nouvelle taille enregistrement : 137
+FACTURES	MODE_PAYE	RUB+		MODE_PAYE est une nouvelle rubrique
+COLIS	MESURE	RRN		
+FACTURES	MODE_PAYE	RRN		

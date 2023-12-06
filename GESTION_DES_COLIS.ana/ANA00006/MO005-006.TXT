@@ -1,0 +1,8 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+AGENCES	TELEPHONE	NNR	NUM_TEL	ATTENTION : la rubrique NUM_TEL a pour nouveau nom TELEPHONE
+EXPEDITEUR		TAR	400	nouvelle taille enregistrement : 400
+EXPEDITEUR	TELEPHONE	NNR	NUM_TEL	ATTENTION : la rubrique NUM_TEL a pour nouveau nom TELEPHONE
+EXPEDITEUR	PHOTO	RUB-		la rubrique PHOTO est supprimée
+DESTINATEUR		TAR	400	nouvelle taille enregistrement : 400
+DESTINATEUR	TELEPHONE	NNR	NUM_TEL	ATTENTION : la rubrique NUM_TEL a pour nouveau nom TELEPHONE
+DESTINATEUR	PHOTO	RUB-		la rubrique PHOTO est supprimée
